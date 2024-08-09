@@ -2,7 +2,7 @@
   "name": "com.deepfreeze.unsealedclassfinder",
   "displayName": "Unsealed Class Finder",
   "description": "An editor tool that will scan assemblies and show all unsealed classes in an editor window.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.2",
   "author": {
     "name": "Deep Freeze Games",
